@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=anwjrrp33&fontSize=60&fontColor=black&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
-<center># Hi there 👋</center>
+# <center>Hi there 👋</center>
 I'm anwjrrp33, a junior server developer.
 <!--
 **anwjrrp33/anwjrrp33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
