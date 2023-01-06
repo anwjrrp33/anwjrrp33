@@ -1,19 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=60&fontColor=black&animation=fadeIn)
-
-<h3 align="center"> 👋 Hi there,</h3>
-
-<p align="center">
-I'm anwjrrp33, a junior server developer. 🌱
-</p>
-<h3 align="center">✨ Tech Stack ✨</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-</p>
+### About Me
+- 안녕하세요 백엔드 개발자 `심성현` 입니다.
+- 좋은 코드를 작성하기 위해서 `클린코드`를 지향하고 있습니다.
+- 항상 성장하기를 갈구하며 성장하기 위해서 노력하고 있습니다.
+- 새로운 기술에 호기심을 갖고 탐구하는 것을 좋아합니다.
 
 <br><br>
 
